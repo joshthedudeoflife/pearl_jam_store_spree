@@ -1,0 +1,1 @@
+Spree::Config.set(logo: "store/pearl_jam.png")
